@@ -47,6 +47,7 @@ main div img {
   height: auto;
 }
 
+
 @media screen and (max-width: 700px) {
 	ul#nav { display: none; }
 	h1 { width: 100%; text-align: center; margin-left: 0; }
