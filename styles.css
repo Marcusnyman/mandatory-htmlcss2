@@ -37,8 +37,8 @@ main {
 }
 
 main div { 
-  flex: auto; 
-  width: 150px; 
+  flex-grow: 1;
+  flex-basis: 150px; 
   margin: 15px; 
   box-shadow: 7px 6px 21px 0 rgba(0,0,0,0.75);
 }
